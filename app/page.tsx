@@ -47,7 +47,7 @@ export default function ChamaAuraStudio() {
         >
           <h2 className="text-5xl font-bold mb-8">Isso não é só edição</h2>
           <p className="text-xl text-gray-400 leading-relaxed">
-            O Chama Aura Studio nasceu para pessoas comuns, sem estrutura, sem dinheiro sobrando,
+            O Aura Studio nasceu para pessoas comuns, sem estrutura, sem dinheiro sobrando,
             mas com fome de mudança. Aqui você aprende a editar, vender e viver disso.
           </p>
         </motion.div>
@@ -139,7 +139,7 @@ export default function ChamaAuraStudio() {
         >
           <h2 className="text-6xl font-extrabold mb-10">Você decide agora</h2>
           <p className="text-xl text-gray-300 mb-12">
-            Ou você fecha essa página, ou entra no Chama Aura Studio e muda o jogo.
+            Ou você fecha essa página, ou entra no Aura Studio e muda o jogo.
           </p>
           <Button className="text-2xl px-20 py-10 rounded-2xl shadow-2xl">
             O link vira aqui
@@ -149,7 +149,7 @@ export default function ChamaAuraStudio() {
 
       {/* FOOTER */}
       <footer className="py-12 text-center text-gray-500">
-        © 2025 • Chama Aura Studio • Todos os direitos reservados
+        © 2025 • Aura Studio • Todos os direitos reservados
       </footer>
     </div>
   );
