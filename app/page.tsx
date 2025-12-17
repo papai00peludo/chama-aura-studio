@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -147,7 +149,7 @@ export default function ChamaAuraStudio() {
 
       {/* FOOTER */}
       <footer className="py-12 text-center text-gray-500">
-        © 2025 • Aura Studio • Todos os direitos reservados
+        © 2025 • Chama Aura Studio • Todos os direitos reservados
       </footer>
     </div>
   );
