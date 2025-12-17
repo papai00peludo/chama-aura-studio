@@ -27,7 +27,7 @@ export default function AuraStudio() {
           <div className="mt-12 flex flex-col sm:flex-row gap-6 justify-center">
             <Button
               variant="outline"
-              className="text-xl px-14 py-8 rounded-2xl !transition-none hover:!bg-transparent hover:!translate-x-0 hover:!translate-y-0"
+              className="text-xl px-14 py-8 rounded-2xl text-white border-white hover:text-white"
             >
               Ver método
             </Button>
