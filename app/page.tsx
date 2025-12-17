@@ -25,10 +25,10 @@ export default function AuraStudio() {
             Transforme seu PC em uma fonte real de renda através da edição de vídeos profissional.
           </p>
           <div className="mt-12 flex flex-col sm:flex-row gap-6 justify-center">
-            <Button className="text-xl px-14 py-8 rounded-2xl shadow-2xl">
-              O link vira aqui
-            </Button>
-            <Button variant="outline" className="text-xl px-14 py-8 rounded-2xl">
+            <Button
+              variant="outline"
+              className="text-xl px-14 py-8 rounded-2xl !transition-none hover:!bg-transparent hover:!translate-x-0 hover:!translate-y-0"
+            >
               Ver método
             </Button>
           </div>
