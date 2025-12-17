@@ -19,7 +19,7 @@ export default function ChamaAuraStudio() {
           className="relative z-10 max-w-6xl text-center px-6"
         >
           <h1 className="text-6xl md:text-8xl font-extrabold tracking-tight">
-            CHAMA <span className="text-purple-500">AURA</span> STUDIO
+            AURA <span className="text-purple-500">STUDIO</span>
           </h1>
           <p className="mt-8 text-xl md:text-2xl text-gray-300">
             Transforme seu PC em uma fonte real de renda através da edição de vídeos profissional.
