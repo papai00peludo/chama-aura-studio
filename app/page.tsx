@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Play, Star, Zap, ShieldCheck, Flame, ArrowDown, CheckCircle } from "lucide-react";
 
-export default function ChamaAuraStudio() {
+export default function AuraStudio() {
   return (
     <div className="bg-black text-white min-h-screen font-sans overflow-x-hidden">
 
