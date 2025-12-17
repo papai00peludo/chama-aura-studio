@@ -30,7 +30,7 @@ export default function AuraStudio() {
             </Button>
             <Button
               variant="outline"
-              className="text-xl px-14 py-8 rounded-2xl !text-black !border-white hover:!text-black"
+              className="text-xl px-14 py-8 rounded-2xl bg-white text-black border-white hover:bg-white hover:text-black"
             >
               Ver método
             </Button>
